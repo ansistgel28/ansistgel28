@@ -21,6 +21,14 @@ Además, estoy iniciándome en el uso de **Linux**, después de haber trabajado 
 Me interesa seguir aprendiendo más lenguajes de programación, mejorar mi lógica, crear proyectos útiles y construir poco a poco un portafolio académico y profesional.
 
 ---
+## 🐍 Mi serpiente de contribuciones
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ansistgel28/ansistgel28/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+  />
+</p>
 
 ## 🚀 Áreas de interés
 
