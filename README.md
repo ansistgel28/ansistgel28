@@ -14,9 +14,9 @@ Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial | UNTRM
 
 Soy estudiante de la **Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas (UNTRM)**, con interés en la **programación, ciencia de datos, inteligencia artificial y desarrollo tecnológico**.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Python y C++**, que son los lenguajes con los que tengo mayor familiaridad. También estoy aprendiendo **HTML** y explorando nuevas tecnologías para ampliar mi formación como futuro profesional en el área de datos e inteligencia artificial.
+Actualmente estoy fortaleciendo mis conocimientos en **Python y C++**, que son los lenguajes con los que tengo mayor familiaridad. También estoy aprendiendo **HTML** y explorando nuevas tecnologías para ampliar mis habilidades como futuro profesional en el área de datos, inteligencia artificial y desarrollo de software.
 
-Además, estoy iniciándome en el uso de **Linux**, después de haber trabajado principalmente con **Windows**, por lo que me encuentro aprendiendo nuevas herramientas, comandos y entornos de desarrollo.
+Además, estoy iniciándome en el uso de **Linux**, después de haber trabajado principalmente con **Windows**, por lo que me encuentro aprendiendo nuevas herramientas, comandos, personalización del sistema y entornos de desarrollo.
 
 Me interesa seguir aprendiendo más lenguajes de programación, mejorar mi lógica, crear proyectos útiles y construir poco a poco un portafolio académico y profesional.
 
@@ -55,11 +55,9 @@ SQL           → manejo y consulta de bases de datos
 Linux         → comandos, entorno de trabajo y personalización
 Git y GitHub  → control de versiones y portafolio profesional
 
-🧩 Lenguajes que más uso actualmente
-
-Python   █████████░  En proceso de fortalecimiento
-C++      ████████░░  En proceso de práctica
-HTML     █████░░░░░  Aprendiendo
-CSS      ████░░░░░░  Aprendiendo
-JavaScript ███░░░░░░ Explorando
-SQL      ███░░░░░░░  Explorando
+Python       █████████░  En proceso de fortalecimiento
+C++          ████████░░  En proceso de práctica
+HTML         █████░░░░░  Aprendiendo
+CSS          ████░░░░░░  Aprendiendo
+JavaScript   ███░░░░░░░  Explorando
+SQL          ███░░░░░░░  Explorando
