@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy ansistgel28</h1>
+<h1 align="center">👋 Hola, soy ansistgel28</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial | UNTRM
+Explorando código, datos, inteligencia artificial y sistemas
 </h3>
 
 <p align="center">
@@ -10,27 +10,29 @@ Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial | UNTRM
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🕶️ Sobre mí
 
-Soy estudiante de la **Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas (UNTRM)**, con interés en la **programación, ciencia de datos, inteligencia artificial y desarrollo tecnológico**.
+Soy una persona en constante aprendizaje, explorando el mundo de la **programación, la ciencia de datos, la inteligencia artificial y el desarrollo tecnológico**.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Python y C++**, que son los lenguajes con los que tengo mayor familiaridad. También estoy aprendiendo **HTML** y explorando nuevas tecnologías para ampliar mis habilidades como futuro profesional en el área de datos, inteligencia artificial y desarrollo de software.
+Actualmente estoy fortaleciendo mis bases en **Python** y **C++**, lenguajes con los que tengo mayor familiaridad. También estoy aprendiendo **HTML**, desarrollo web y nuevas herramientas que me permitan construir proyectos más completos.
 
-Además, estoy iniciándome en el uso de **Linux**, después de haber trabajado principalmente con **Windows**, por lo que me encuentro aprendiendo nuevas herramientas, comandos, personalización del sistema y entornos de desarrollo.
+Vengo de trabajar principalmente en **Windows**, pero ahora estoy iniciándome en **Linux**, aprendiendo comandos, personalización del sistema, entornos de desarrollo y nuevas formas de trabajar con tecnología.
 
-Me interesa seguir aprendiendo más lenguajes de programación, mejorar mi lógica, crear proyectos útiles y construir poco a poco un portafolio académico y profesional.
+No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas por dentro: el código, los datos, los sistemas, los algoritmos y las herramientas que permiten crear soluciones reales.
 
 ---
-## 🚀 Áreas de interés
 
-- 🧠 Ciencia de datos e inteligencia artificial.
+## 🧠 Intereses
+
 - 💻 Programación y desarrollo de software.
-- 🧮 Algoritmos, lógica y estructuras de datos.
+- 🐍 Python para automatización, datos y proyectos prácticos.
+- ⚙️ C++ para lógica, algoritmos y estructuras.
+- 🌐 Desarrollo web con HTML, CSS y JavaScript.
+- 🧮 Algoritmos, pensamiento lógico y resolución de problemas.
 - 🗄️ Bases de datos y gestión de información.
-- 🌐 Desarrollo web.
-- ⚙️ Automatización de procesos.
-- 🐧 Linux y herramientas de desarrollo.
-- 🔬 Aplicación de la tecnología para resolver problemas reales.
+- 🤖 Inteligencia artificial y ciencia de datos.
+- 🐧 Linux, terminal y personalización del entorno.
+- 🚀 Aprendizaje de nuevos lenguajes y tecnologías.
 
 ---
 
@@ -53,18 +55,18 @@ Me interesa seguir aprendiendo más lenguajes de programación, mejorar mi lógi
 ## 📚 Actualmente aprendiendo
 
 ```txt
-Python        → análisis de datos, automatización y proyectos prácticos
+Python        → automatización, datos y proyectos prácticos
 C++           → lógica, algoritmos y programación estructurada
-HTML          → estructura básica de páginas web
-CSS           → diseño y presentación web
+HTML          → estructura de páginas web
+CSS           → diseño y presentación visual
 JavaScript    → interacción y desarrollo web
-SQL           → manejo y consulta de bases de datos
-Linux         → comandos, entorno de trabajo y personalización
-Git y GitHub  → control de versiones y portafolio profesional
+SQL           → consultas y manejo de datos
+Linux         → terminal, sistema y entorno de desarrollo
+Git y GitHub  → control de versiones y portafolio
 
-Python       █████████░  En proceso de fortalecimiento
-C++          ████████░░  En proceso de práctica
-HTML         █████░░░░░  Aprendiendo
-CSS          ████░░░░░░  Aprendiendo
-JavaScript   ███░░░░░░░  Explorando
-SQL          ███░░░░░░░  Explorando
+Python       █████████░  Principal lenguaje de práctica
+C++          ████████░░  Lógica, algoritmos y estructuras
+HTML         ██░░░░░░░░  Aprendiendo desarrollo web
+CSS          ██░░░░░░░░  Aprendiendo diseño web
+JavaScript   █░░░░░░░░░  Explorando
+SQL          █░░░░░░░░░  Explorando bases de datos
