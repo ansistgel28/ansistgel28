@@ -54,7 +54,7 @@ No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas p
 
 ---
 
-## 🐍 Mi serpiente de contribuciones
+## 
 
 <p align="center">
   <img 
