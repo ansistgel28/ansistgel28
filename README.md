@@ -5,7 +5,7 @@ Explorando código, datos, inteligencia artificial y sistemas
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansistgel28&label=Visitas%20al%20perfil&style=flat-square" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ansistgel28&label=Visitas%20al%20perfil&style=flat-square&color=111827" alt="visitas" />
 </p>
 
 ---
@@ -39,10 +39,21 @@ No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas p
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode,linux,mysql" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
+
 ## 🐍 Mi serpiente de contribuciones
 
 <p align="center">
@@ -51,6 +62,8 @@ No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas p
     alt="Snake animation"
   />
 </p>
+
+---
 
 ## 📚 Actualmente aprendiendo
 
@@ -63,10 +76,13 @@ JavaScript    → interacción y desarrollo web
 SQL           → consultas y manejo de datos
 Linux         → terminal, sistema y entorno de desarrollo
 Git y GitHub  → control de versiones y portafolio
+```
 
+```txt
 Python       █████████░  Principal lenguaje de práctica
 C++          ████████░░  Lógica, algoritmos y estructuras
 HTML         ██░░░░░░░░  Aprendiendo desarrollo web
 CSS          ██░░░░░░░░  Aprendiendo diseño web
 JavaScript   █░░░░░░░░░  Explorando
 SQL          █░░░░░░░░░  Explorando bases de datos
+```
