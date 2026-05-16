@@ -49,7 +49,6 @@ Me interesa seguir aprendiendo más lenguajes de programación, mejorar mi lógi
     alt="Snake animation"
   />
 </p>
----
 
 ## 📚 Actualmente aprendiendo
 
