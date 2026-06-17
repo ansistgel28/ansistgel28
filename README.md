@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy ansistgel28</h1>
+
 
 <h3 align="center">
 Explorando código, datos, inteligencia artificial y sistemas
