@@ -10,19 +10,9 @@ Explorando código, datos, inteligencia artificial y sistemas
 
 ---
 
-## 🕶️ Sobre mí
-
-Soy una persona en constante aprendizaje, explorando el mundo de la **programación, la ciencia de datos, la inteligencia artificial y el desarrollo tecnológico**.
-
-Actualmente estoy fortaleciendo mis bases en **Python** y **C++**, lenguajes con los que tengo mayor familiaridad. También estoy aprendiendo **HTML**, desarrollo web y nuevas herramientas que me permitan construir proyectos más completos.
-
-Vengo de trabajar principalmente en **Windows**, pero ahora estoy iniciándome en **Linux**, aprendiendo comandos, personalización del sistema, entornos de desarrollo y nuevas formas de trabajar con tecnología.
-
-No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas por dentro: el código, los datos, los sistemas, los algoritmos y las herramientas que permiten crear soluciones reales.
-
 ---
 
-## 🧠 Intereses
+##  Intereses
 
 - 💻 Programación y desarrollo de software.
 - 🐍 Python para automatización, datos y proyectos prácticos.
@@ -64,25 +54,3 @@ No me enfoco en una sola área. Me interesa entender cómo funcionan las cosas p
 </p>
 
 ---
-
-## 📚 Actualmente aprendiendo
-
-```txt
-Python        → automatización, datos y proyectos prácticos
-C++           → lógica, algoritmos y programación estructurada
-HTML          → estructura de páginas web
-CSS           → diseño y presentación visual
-JavaScript    → interacción y desarrollo web
-SQL           → consultas y manejo de datos
-Linux         → terminal, sistema y entorno de desarrollo
-Git y GitHub  → control de versiones y portafolio
-```
-
-```txt
-Python       █████████░  Principal lenguaje de práctica
-C++          ████████░░  Lógica, algoritmos y estructuras
-HTML         ██░░░░░░░░  Aprendiendo desarrollo web
-CSS          ██░░░░░░░░  Aprendiendo diseño web
-JavaScript   █░░░░░░░░░  Explorando
-SQL          █░░░░░░░░░  Explorando bases de datos
-```
