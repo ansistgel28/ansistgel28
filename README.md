@@ -26,7 +26,7 @@ Explorando código, datos, inteligencia artificial y sistemas
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
