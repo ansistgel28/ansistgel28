@@ -43,14 +43,3 @@ Explorando código, datos, inteligencia artificial y sistemas
 </p>
 
 ---
-
-## 
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ansistgel28/ansistgel28/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation"
-  />
-</p>
-
----
